@@ -1,0 +1,170 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.input-input{
+  display: flex;
+}
+
+.input {
+  border: solid 2px lightblue;
+  margin-top: 50px;
+  margin-left: 500px;
+  height: 35px;
+  width: 380px;
+  border-radius: 5px 0px 0px 5px;
+
+
+}
+
+.input-addtodo {
+  background-color: lightskyblue;
+  color: white;
+  text-align: center;
+  height: 35px;
+  border-color: lightskyblue;
+  border-radius: 0px 5px 5px 0px;
+  margin-top: 50px;
+}
+
+.todolist-tittle {
+  border: solid 1px;
+  background-color: green;
+  width: 200px;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-left: 500px;
+ 
+}
+
+.TodoListItem {
+  margin-top: 20px;
+  margin-left: 500px;
+  border: 1px solid wheat;
+  width: 200px;
+
+
+}
+
+.TodoListItem1 {
+  display: flex;
+  border: 1px solid wheat;
+  text-align: center;
+  padding: 5px 10px;
+
+
+}
+
+.TodoListItem2 {
+  display: flex;
+  border: 1px solid wheat;
+  text-align: center;
+  padding: 5px 10px;
+
+}
+
+.TodoListItem3 {
+  display: flex;
+  border: 1px solid wheat;
+  text-align: center;
+  padding: 5px 10px;
+}
+
+.TodoListItem4 {
+  display: flex;
+  border: 1px solid wheat;
+  text-align: center;
+  padding: 5px 10px;
+}
+
+.TodoListItem5 {
+  display: flex;
+  border: 1px solid wheat;
+  text-align: center;
+  padding: 5px 10px;
+}
+
+.TodoListItem1 h4 {
+  margin-left: 60px;
+
+}
+
+.TodoListItem2 h4 {
+  margin-left: 102px;
+
+}
+
+.TodoListItem3 h4 {
+  margin-left: 72px;
+
+}
+
+.TodoListItem4 h4 {
+  margin-left: 48px;
+
+}
+
+.TodoListItem5 h4 {
+  margin-left: 73px;
+
+}
+.IsDoneTitle{
+
+  background-color: red;
+  color: white;
+  width: 200px;
+  text-align: center;
+  border-radius: 5px;
+  margin-left: 750px;
+  margin-top: -210px;
+}
+
+.IsDoneltem{
+  margin-top: 20px;
+  margin-left: 750px;
+}
+
+
+.IsDoneltem1{
+border: 1px solid wheat;
+display: flex;
+padding: 5px 10px;
+width: 200px;
+text-align: center;
+
+
+}
+.IsDoneltem2{
+  border: 1px solid wheat;
+  display: flex;
+  padding: 5px 10px;
+  width: 200px;
+  text-align: center;
+  
+  }
+  .IsDoneltem3{
+    border: 1px solid wheat;
+    display: flex;
+    padding: 5px 10px;
+    width: 200px;
+    text-align: center;
+    
+    }
+    .IsDoneltem1 img{
+    width: 20px;
+    margin-left: 125px;
+      
+      
+      }
+      .IsDoneltem2 img{
+        width: 20px;
+        margin-left:60px;
+        
+        }
+        .IsDoneltem3 img{
+          width: 20px;
+          margin-left: 33px;
+          
+          }
